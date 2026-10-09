@@ -1,0 +1,11 @@
+{
+  "shm_name": "r1_force_feedback",
+  "max_devices": 4,
+  "variables": [
+    {
+      "name": "force_goals",
+      "data_size": 20,
+      "format": "5i"
+    }
+  ]
+}
